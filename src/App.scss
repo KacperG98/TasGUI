@@ -1,0 +1,12 @@
+@import './SASS_Components/variables.scss';
+@import './SASS_Components/mixins.scss';
+
+body{
+    @include bsizing;
+    margin: 0;
+    padding: 0;
+}
+
+.App{
+    background-color: $base-color;
+}

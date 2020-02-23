@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,IAAI,CAAA;EEFA,UAAU,EAAE,UAAU;EFItB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,IAAI,CAAA;EACA,gBAAgB,ECVP,IAAI;CDWhB",
+    "sources": [
+        "App.scss",
+        "SASS_Components/variables.scss",
+        "SASS_Components/mixins.scss"
+    ],
+    "names": [],
+    "file": "App.css"
+}
